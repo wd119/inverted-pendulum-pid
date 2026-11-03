@@ -19,7 +19,7 @@
 | 电机 PWM | TIM2_CH1 / PA0 |
 | 电机方向 | PB12、PB13 |
 | 编码器 | TIM3_CH1/CH2 / PA6、PA7(编码器模式 TI12) |
-| 调参电位器 | ADC2_CH2~CH5 / PA2~PA5(代码中预留,当前未启用) |
+| 调参电位器 | ADC2_CH2~CH5 / PA2~PA5(代码中预留,用于调试) |
 | OLED | 软件 I2C,SCL = PB8,SDA = PB9 |
 | 串口 | USART1 / PA9(TX)、PA10(RX),9600 8N1 |
 
